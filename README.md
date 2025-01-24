@@ -27,8 +27,13 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 **Förinspelat** (för distansklassen)
 
+* [Formulärvalidering och Felhantering](https://vimeo.com/1049960188/d039d2f672)
+
 ### Lektionsrepon
 
+* [27 jan]()
+* [28 jan]()
+* [29 jan]()
 
 ### Filmer
 
