@@ -20,8 +20,8 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 ### Presentationer
 
-* [localStorage](https://docs.google.com/presentation/d/1fI4zTguh_n9q76UcEC0ML74yfMQLvPejixN2Jo0KPMM/edit?usp=sharing)
-* [Git workflow](https://github.com/Santosnr6/Git-Flow/)
+* [LocalStorage](https://docs.google.com/presentation/d/1fI4zTguh_n9q76UcEC0ML74yfMQLvPejixN2Jo0KPMM/edit?usp=sharing)
+* [Git Workflow](https://github.com/Santosnr6/Git-Flow/)
 
 ### Inspelade föreläsningar
 
@@ -30,7 +30,7 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 **Förinspelat** (för distansklassen)
 
 * [Formulärvalidering och Felhantering](https://vimeo.com/1049960188/d039d2f672)
-* [localStorage](https://vimeo.com/805239004)
+* [LocalStorage](https://vimeo.com/805239004)
 * [Git Workflow](https://vimeo.com/906686286/9a91ea5b62)
 
 ### Lektionsrepon
@@ -43,10 +43,12 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 
 ### Länkar
-
+* [LocalStorage MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage)
 
 ### Övningar 
 
+* [Login Bootcamp](https://github.com/fu-javascript-fe24/week-5-exercise-login-bootcamp)
+* [Tic Tac Toe](https://github.com/fu-javascript-fe24/code-review-tic-tac-toe)
 
 
 
