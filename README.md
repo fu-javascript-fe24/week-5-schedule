@@ -35,7 +35,7 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 ### Lektionsrepon
 
-* [27 jan]()
+* [27 jan](https://github.com/fu-javascript-fe24/week-5-lecture-27-jan)
 * [28 jan]()
 * [29 jan]()
 
