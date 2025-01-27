@@ -27,6 +27,8 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 **LIVE**
 
+* [Formulärvalidering, felhantering och localStorage](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ed32jqPt_lBIvr757DaQQjcB8-Idb-XaB55v8KxTByaMog?e=JwmOaN)
+
 **Förinspelat** (för distansklassen)
 
 * [Formulärvalidering och Felhantering](https://vimeo.com/1049960188/d039d2f672)
