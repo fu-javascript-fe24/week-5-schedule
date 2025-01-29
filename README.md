@@ -30,7 +30,8 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 * [Formulärvalidering, felhantering och localStorage, 27 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/Ed32jqPt_lBIvr757DaQQjcB8-Idb-XaB55v8KxTByaMog?e=JwmOaN) . med Karlstad
 * [LIA med Kristina, 27 jan](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EWuz7fsCHRtDlvS9wxBPKD4BPhtsbiRwfBOrZqu23XFXGA?e=bQZVdH&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - gemensam
 * [Formulärvalidering, felhantering och localStorage - fördjupning, 27 jan](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EctdI4KJbXhJuAZTVPhedvgBOpjlf_BVPZpi-ZULeSjcmg?e=GIzA8z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - gemensam
-* [Git Workflow](https://discord.gg/4BAR7wtj?event=1333741633010663445) - med distans
+* [Git Workflow, 28 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/ETy1K9TLOWZJoJz2IA2jvbMBy_Zykp5Xe6yqnrzq12T2ag?e=wyqLDS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - med distans
+* [Git Workflow, 28 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EVcekMnsd1ZLqBPtSRMYeOcBwfWX3bC5d0NlEwo1XP74Kg?e=ASL9sD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - med Karlstad
 
 **Förinspelat** (för distansklassen)
 
@@ -42,7 +43,7 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 * [27 jan](https://github.com/fu-javascript-fe24/week-5-lecture-27-jan) - gemensam
 * [28 jan](https://github.com/fu-javascript-fe24/week-5-lecture-28-jan) - distans
-* [29 jan]() - Karlstad
+* [29 jan](https://github.com/fu-javascript-fe24/week-5-lecture-29-jan) - Karlstad
 
 ### Filmer
 
