@@ -55,6 +55,8 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 
 * [Login Bootcamp](https://github.com/fu-javascript-fe24/week-5-exercise-login-bootcamp)
 * [Tic Tac Toe](https://github.com/fu-javascript-fe24/code-review-tic-tac-toe)
+* [Workshop: Git Flow](https://github.com/fu-javascript-fe24/week-5-workshop-git-flow)
+* [Gruppexamination](https://github.com/fu-javascript-fe24/exam-group-catching-pokemon)
 
 
 
