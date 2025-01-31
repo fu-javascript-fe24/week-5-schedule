@@ -32,6 +32,7 @@ Utöver detta kommer vi dyka ner i localStorage, webbläsarens inbyggda lösning
 * [Formulärvalidering, felhantering och localStorage - fördjupning, 27 jan](https://funet-my.sharepoint.com/:v:/g/personal/jesper_nyberg_folkuniversitetet_se/EctdI4KJbXhJuAZTVPhedvgBOpjlf_BVPZpi-ZULeSjcmg?e=GIzA8z&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - gemensam
 * [Git Workflow, 28 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/ETy1K9TLOWZJoJz2IA2jvbMBy_Zykp5Xe6yqnrzq12T2ag?e=wyqLDS&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - med distans
 * [Git Workflow, 28 jan](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Karlstad-Arvika/EVcekMnsd1ZLqBPtSRMYeOcBwfWX3bC5d0NlEwo1XP74Kg?e=ASL9sD&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) - med Karlstad
+* [Genomgång av gruppexamination](https://funet.sharepoint.com/:v:/s/FrontendutvecklareYH-Fe24Distans/EYg4HpFVOXdBl5opQsMWepoBq-ySN94JHYVgnkX9IIwoeQ?e=e1iImq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 **Förinspelat** (för distansklassen)
 
